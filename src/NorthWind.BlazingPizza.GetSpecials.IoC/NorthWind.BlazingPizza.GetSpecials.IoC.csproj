@@ -1,0 +1,13 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\NorthWind.BlazingPizza.GetSpeacials.Core\NorthWind.BlazingPizza.GetSpeacials.Core.csproj" />
+    <ProjectReference Include="..\NorthWind.BlazingPizza.GetSpeacials.Repositories\NorthWind.BlazingPizza.GetSpeacials.Repositories.csproj" />
+  </ItemGroup>
+
+</Project>

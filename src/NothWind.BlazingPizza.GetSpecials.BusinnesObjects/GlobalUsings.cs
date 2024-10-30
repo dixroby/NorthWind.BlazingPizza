@@ -1,0 +1,1 @@
+global using NothWind.BlazingPizza.GetSpecials.Entities.Dtos;
